@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]
+# 👋 Hey there! I'm Shammi Kumar
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building full-stack applications, solving real-world problems, and constantly learning new technologies.
 
@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building ful
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: **[Your Current Project/Internship]**
-- 🌱 Learning: **Spring Boot**, **React Native**, **AWS**, **CI/CD**
-- 💬 Ask me about: Full Stack Development, Clean Architecture, System Design
+- 🌱 Learning & exploring: **Spring Boot**, **React Native**, **AWS**, **CI/CD** , **Java** etc
+- 💬 Ask me about: Full Stack Development, Clean Architecture , Mobile App development
 - ⚡ Fun fact: I love building side projects that challenge me to learn something new!
 
 ---
@@ -16,16 +15,16 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building ful
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
+`Java` `JavaScript`  `SQL` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`Spring Boot` `React` `React Native` `Node.js` `Express` `Redux`
+`Spring Boot` `React Native` `Redux`
 
 **Databases & DevOps:**  
-`MySQL` `MongoDB` `Firebase` `Docker` `AWS EC2` `S3`
+`MySQL` `Firebase` `Docker` `AWS EC2` `S3` 
 
 **Tools & Platforms:**  
-`Postman` `Git & GitHub` `VS Code` `Android Studio` `Figma`
+`Postman` `Git & GitHub` `VS Code` `Android Studio` 
 
 ---
 
