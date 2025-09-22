@@ -61,8 +61,8 @@ I'm a passionate **Full-Stack Developer** focused on building scalable, producti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shammiks&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shammiks&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shammiks&show_icons=true&theme=radical&include_all_commits=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shammiks&theme=radical" />
 </p>
 
 ---
