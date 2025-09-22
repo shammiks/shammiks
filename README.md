@@ -1,38 +1,68 @@
 # 👋 Hey there! I'm Shammi Kumar
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building full-stack applications, solving real-world problems, and constantly learning new technologies.
+Welcome to my GitHub profile!  
+I'm a passionate **Full-Stack Developer** focused on building scalable, production-ready applications, solving real-world problems, and continuously exploring new technologies.
 
 ---
 
 ## 🧠 About Me
 
-- 🌱 Learning & exploring: **Spring Boot**, **React Native**, **AWS**, **CI/CD** , **Java** etc
-- 💬 Ask me about: Full Stack Development, Clean Architecture , Mobile App development
-- ⚡ Fun fact: I love building side projects that challenge me to learn something new!
+- 🎓 B.Tech CSE student @ **Bhagwan Parshuram Institute of Technology** (CGPA: 9.06)
+- 🌱 Currently working with **Spring Boot**, **React Native**, **Docker**, **AWS**, and **CI/CD**
+- 💡 Love building projects that challenge me to learn something new
+- 💬 Ask me about **Full Stack Development**, **Clean Architecture**, and **Mobile App Development**
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `JavaScript`  `SQL` `HTML` `CSS`
+`Java` `C++` `SQL` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`Spring Boot` `React Native` `Redux`
+`Spring Boot` `React Native` `Redux` `MVC`
 
-**Databases & DevOps:**  
-`MySQL` `Firebase` `Docker` `AWS EC2` `S3` 
+**Databases:**  
+`MySQL` `PostgreSQL`
 
-**Tools & Platforms:**  
-`Postman` `Git & GitHub` `VS Code` `Android Studio` 
+**DevOps & Cloud:**  
+`Docker` `DockerHub` `GitHub Actions` `AWS (EC2, S3)`
+
+**Tools:**  
+`Postman` `Git & GitHub` `VS Code` `Android Studio`
+
+---
+
+## 🚀 Projects
+
+### 🟢 CareerCircle | React Native, Spring Boot, Redux, MySQL, Docker
+- Built a **social media platform** for students and campus placement candidates  
+- Designed a **master-slave database architecture** with intelligent read/write routing, reducing query latency by **35%**  
+- Implemented **server-side caching and query optimization**, reducing load time by **90%**
+
+### 🟡 SmartReply AI | Spring Boot, Chrome Extension, Docker, AWS
+- Developed a **Chrome Extension** integrated with **Spring Boot backend** to generate AI-powered email replies using **Google Gemini API**  
+- Dockerized and deployed the service to **AWS EC2** with **GitHub Actions CI/CD**
+
+### 🔵 Medicos | React Native, Spring Boot, MySQL, Redux
+- Built a **React Native app** for appointment booking with smooth UI/UX  
+- Reduced average query execution time by **85%** through optimized DB queries  
+- Integrated secure **Spring Boot REST APIs** for scheduling, authentication, and profile management
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Participated in **RTDS Hackathon** by AceCloud – dockerized a MERN stack app and implemented CI/CD with GitHub Actions  
+- 💻 Solved multiple **DSA problems** on GFG & LeetCode to strengthen problem-solving skills  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shammiks&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shammiks&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -40,12 +70,12 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building ful
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" /></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/shammi-kumar-337a51213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="mailto:shammiks49@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" /></a>
+  <a href="https://portfolioshammi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=flat" /></a>
 </p>
 
 ---
 
-> 🚀 _“Code is like humor. When you have to explain it, it’s bad.”_
+> 🚀 *“Code is like humor. When you have to explain it, it’s bad.”*
 
